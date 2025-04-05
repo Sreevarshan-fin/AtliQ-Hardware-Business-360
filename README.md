@@ -1,5 +1,8 @@
 # AtliQ-Hardware-Business-360
 
+##  **Check Out My Intractive Dashboard Link**
+https://app.powerbi.com/view?r=eyJrIjoiZmI3MDQwMjktZTA3Zi00ZmM3LWIyNzQtZmEzZmNhMjBiM2U1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 # Finance View  
 ### Objectives  
 - Improve financial planning and budgeting processes.  
